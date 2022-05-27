@@ -238,4 +238,4 @@ append-proxy-groups:
 commands:
     - proxy-groups.公益.proxies=[]proxyNames|(公益)+|(梦歌)+
     - proxy-groups.0.proxies.0+公益
-    - proxy-groups.2.proxies.0+公益
+    - proxy-groups.7.proxies.0+公益
